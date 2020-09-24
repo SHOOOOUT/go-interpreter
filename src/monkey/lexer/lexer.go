@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/shuto/go-interpreter/01/src/monkey/token"
+	"github.com/shuto/go-interpreter/src/monkey/token"
 )
 
 type Lexer struct {
